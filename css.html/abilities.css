@@ -1,0 +1,44 @@
+/* CSS files --> abilities.html */
+body{
+    background-color: #ddecee;
+}
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color: #FEFDCA;
+} 
+.manu td:hover{
+    background-color: blueviolet;
+}
+h1{
+    text-align: center; 
+    font-family: cursive;
+    background-color: #E0F9B5;
+} 
+h4{
+    text-align: center; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-weight: 300;
+}
+h5{ 
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight: normal;
+}
+h2 { 
+    text-align: center;
+    background-color: #FFCFDF;
+} 
+.table-skills{
+    margin-left: auto; 
+    margin-right: auto; 
+    background-color: #FEFDCA;
+}
+.name{
+    text-decoration: underline;
+    color: blue;
+}
+.Eee {
+    text-decoration: underline;
+    color: blue;
+}

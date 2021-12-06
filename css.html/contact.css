@@ -1,0 +1,21 @@
+/* CSS files --> contact.html */
+body{
+    background-color: #A5DEE5;
+}
+table{
+    width:100%; 
+    text-align: center;
+    background-color: #99e4ee;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    background-color: #93d6e7;
+}
+.manu td:hover{
+    background-color: cyan;
+}
+.Eee {
+    text-decoration: underline;
+    color: blue;
+}
